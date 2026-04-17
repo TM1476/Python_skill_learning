@@ -10,7 +10,7 @@ client = genai.Client(api_key=GEMINI_API_KEY)
 
 @app.route('/')
 def index():
-    return render_template('dashboard.html')
+    return render_template('index.html')
 
 @app.route('/analyze', methods=['POST'])
 def analyze():
