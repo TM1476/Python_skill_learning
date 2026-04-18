@@ -31,7 +31,7 @@ Architectural Choice: To keep the project lightweight and portable, I bypassed t
 
 Learning: This gave me a deeper understanding of how Flask’s Jinja2 environment locates and renders files.
 
-### 🛠️ The Tech Stack ###
+## 🛠️ The Tech Stack ##
 Backend: Python 3.14 (Leveraging the latest features in the language)
 
 Web Framework: Flask
@@ -42,14 +42,14 @@ APIs: Google Search API, TextBlob NLP
 
 UI/UX: HTML5, CSS3, Bootstrap 5 (Responsive Design)
 
-### 🕹️ Features ###
+## 🕹️ Features ##
 Live Sentiment Analysis: Instant feedback on the emotional tone of any text.
 
 Smart AI Search: Combines real-time web crawling with LLM summarization to provide answers, not just links.
 
 Fail-Safe UI: Custom alerts that notify the user of API status and rate limits.
 
-### 📈 Future Roadmap ###
+## 📈 Future Roadmap ##
 As I continue my deep dive into Python, I plan to:
 
 Transition from Flask to FastAPI for asynchronous performance.
