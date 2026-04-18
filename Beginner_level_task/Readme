@@ -1,4 +1,4 @@
-Python Development Domain - Slab 1 [Beginner] 
+Python Projects [Basic] 
 This directory contains the completed beginner-level tasks for the QSkill Python Development Internship. These projects demonstrate core competencies in data handling, predictive modeling, and mathematical application development.
 
 🚀 Projects Overview
@@ -31,19 +31,3 @@ Visualization: Matplotlib, Seaborn.
 Programming: CLI development, Object-Oriented concepts, and error handling.
 
 Version Control: Git/GitHub for professional code management.
-
-💻 Installation & Execution
-To run any of the tasks locally, follow these steps:
-
-Install Dependencies:
-
-Bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-Navigate to the Task Folder:
-
-Bash
-cd Task_1  # or Task_2, Task_3
-Execute the Script:
-
-Bash
-python <filename>.py
