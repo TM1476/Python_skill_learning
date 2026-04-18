@@ -15,7 +15,6 @@ def main():
     print("=== NumPy Matrix Operations Tool ===")
     
     try:
-        # Get Matrix A
         matrix_a = get_matrix("A")
         print("\nMatrix A:\n", matrix_a)
         
